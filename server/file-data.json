@@ -1,0 +1,95 @@
+{
+  "id": "root",
+  "name": "root",
+  "type": "folder",
+  "children": [
+    {
+      "id": "src",
+      "name": "src",
+      "type": "folder",
+      "children": [
+        {
+          "id": "components",
+          "name": "components",
+          "type": "folder",
+          "children": [
+            {
+              "id": "Header.jsx",
+              "name": "Header.jsx",
+              "type": "file",
+              "size": 1200
+            },
+            {
+              "id": "Footer.jsx",
+              "name": "Footer.jsx",
+              "type": "file",
+              "size": 900
+            }
+          ]
+        },
+        {
+          "id": "utils",
+          "name": "utils",
+          "type": "folder",
+          "children": [
+            {
+              "id": "math.js",
+              "name": "math.js",
+              "type": "file",
+              "size": 400
+            },
+            {
+              "id": "date.js",
+              "name": "date.js",
+              "type": "file",
+              "size": 300
+            }
+          ]
+        },
+        {
+          "id": "App.jsx",
+          "name": "App.jsx",
+          "type": "file",
+          "size": 2100
+        },
+        {
+          "id": "index.js",
+          "name": "index.js",
+          "type": "file",
+          "size": 800
+        }
+      ]
+    },
+    {
+      "id": "public",
+      "name": "public",
+      "type": "folder",
+      "children": [
+        {
+          "id": "index.html",
+          "name": "index.html",
+          "type": "file",
+          "size": 1500
+        },
+        {
+          "id": "favicon.ico",
+          "name": "favicon.ico",
+          "type": "file",
+          "size": 430
+        }
+      ]
+    },
+    {
+      "id": "package.json",
+      "name": "package.json",
+      "type": "file",
+      "size": 600
+    },
+    {
+      "id": "README.md",
+      "name": "README.md",
+      "type": "file",
+      "size": 700
+    }
+  ]
+}
