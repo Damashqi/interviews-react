@@ -31,4 +31,5 @@ There are **no trick questions** and no “gotcha” moments.
 - ❌ **AI tools are not permitted**
 - ❌ Do not modify test files
 - ✅ Focus on correctness and clarity over cleverness
+
 # interviews-react
